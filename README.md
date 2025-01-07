@@ -118,9 +118,3 @@ This project is licensed under the [MIT License](LICENSE). By using this action,
 ## 📧 Support
 
 For issues or feature requests, open an [issue](https://github.com/your-username/create-tag-action/issues) on the repository. Contributions are welcome—feel free to fork the project and submit a pull request!
-
----
-
-## 🙌 Acknowledgments
-
-Built with 💻 by [Your Name](https://github.com/your-username). Inspired by the need for simple, automated Git tag creation in workflows.
